@@ -1,0 +1,457 @@
+/* main-header */
+section .main-header .left h2 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 47px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 630px;
+  margin-bottom: 30px;
+}
+section .main-header {
+  background-color: #1090cb1a;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+section .main-header .container {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+section .main-header .left p {
+  width: 613px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #5c5c5c;
+}
+section .main-header .left h2 span {
+  color: #1090cb;
+}
+
+section .main-header {
+  height: 660px;
+}
+
+section .main-header .left button {
+  height: 41px;
+  width: 143px;
+  border-radius: 10px;
+  background-color: #1090cb;
+  color: #ffffff;
+  border: none;
+  margin-top: 60px;
+}
+
+section .main-header .left .right {
+  background-color: #fff;
+  border: 1px solid #1090cb;
+  color: #1090cb;
+  margin-left: 10px;
+}
+
+section .main-header .container {
+  display: flex;
+}
+
+section .main-header .qep1 {
+  position: absolute;
+  height: 531.772028001632px;
+  width: 651.301994984422px;
+  left: -303.802734375px;
+  top: 269px;
+  border-radius: 0px;
+}
+section .main-header .qep2 {
+  position: absolute;
+  height: 531px;
+  width: 475px;
+  right: -205px;
+  top: 261px;
+  border-radius: 0px;
+}
+
+section .main-header .right img {
+  height: 500px;
+  width: 597px;
+}
+/* main-header */
+
+/* services */
+section .services {
+  border-bottom: 1px solid #c7c7c7;
+}
+section .services .end {
+  width: 90%;
+  margin: 0 auto;
+  background-color: #fff;
+  height: 80px;
+  margin-bottom: 22px;
+}
+
+section .services .end ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+section .services .end ul li .item {
+  display: flex;
+  gap: 20px;
+}
+
+section .services .end ul li .item .desc h2 {
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+section .services .end ul li .item .desc p {
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #969696;
+}
+
+section .services .end ul li .item .img {
+  background-color: #1090cb;
+  height: 70px;
+  width: 70px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section .services .end ul li:first-child .item .img {
+  background-color: #efeaff;
+}
+section .services .end ul li:nth-child(2) .item .img {
+  background-color: #ecffda;
+}
+section .services .end ul li:nth-child(3) .item .img {
+  background-color: #dae6ff;
+}
+section .services .end ul li:nth-child(4) .item .img {
+  background-color: #ffe5da;
+}
+/* services */
+
+/* lorem */
+section .lorem {
+  margin-top: 60px;
+}
+section .lorem h2 {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 53px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #252525;
+  margin-bottom: 20px;
+}
+
+section .main-medium #h2 {
+  height: 44px;
+  width: 847px;
+  font-family: Poppins;
+  font-size: 33px;
+  font-weight: 600;
+  line-height: 53px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+section .lorem #p {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #868686;
+  width: 692px;
+  margin: 0 auto;
+}
+.lorem .items .item .left .sticker .img {
+  width: 58px;
+  height: 58px;
+  background: #08d3bb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.lorem .items .item .left .sticker .desc h2 {
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  margin-top: -5px;
+}
+
+.lorem .items .item .left .sticker .desc p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  color: #868686;
+  width: 308px;
+  margin-top: -35px;
+}
+
+.lorem .items .item .left .sticker {
+  display: flex;
+  gap: 20px;
+}
+
+.lorem .items .item .left h2 {
+  width: 516px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 51px;
+  letter-spacing: 0em;
+  text-align: start;
+  color: #252525;
+  margin-top: -70px;
+}
+.lorem .items .item .left h2 span {
+  color: #1090cb;
+}
+
+.lorem .items .item .left p {
+  height: 141px;
+  width: 476px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #545454;
+  margin-top: 30px;
+}
+
+.lorem .items .item {
+  display: flex;
+}
+.lorem .items .item .right .img {
+  height: 511px;
+  width: 728px;
+  position: relative;
+}
+.lorem .items .item .right .shadow {
+  position: absolute;
+  right: -120px;
+}
+.lorem .items {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+.two {
+  margin-top: 150px;
+  justify-content: space-around;
+}
+#item-end {
+  margin-top: 150px;
+}
+
+#item-end .right .img {
+  height: 470px;
+  width: 651px;
+}
+
+#item-end .right .shadow2 {
+  position: absolute;
+  right: -240px;
+  z-index: -11;
+  height: 505px;
+  width: 497px;
+}
+
+.lorem .cards {
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.lorem .cards .item {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f4f4f4;
+  border-radius: 20px;
+  padding: 55px 25px;
+}
+
+.lorem .cards .item h2 {
+  height: 84px;
+  width: 365px;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #252525;
+}
+
+.lorem .cards .item p {
+  height: 141px;
+  width: 476px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 170%;
+  text-align: center;
+}
+
+.lorem .cards .item button {
+  width: 133px;
+  height: 39px;
+  background: #1090cb;
+  border-radius: 10px;
+  border: 0;
+  color: #fff;
+  margin-top: 20px;
+}
+
+#card-right {
+  background: #1090cb;
+  position: relative;
+}
+#card-right h2,
+#card-right p {
+  color: #fff;
+}
+
+#card-right button {
+  color: #1090cb;
+  background-color: #fff;
+}
+#card-right img {
+  position: absolute;
+  right: 20px;
+  top: -80px;
+}
+
+/* lorem */
+
+/* sponsor */
+
+.sponsor {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 100px;
+  position: relative;
+  box-sizing: border-box;
+  margin-bottom: -80px;
+}
+
+.sponsor h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  color: #000000;
+  text-align: center;
+}
+
+.sponsor .items {
+  display: flex;
+  justify-content: space-around;
+}
+
+#shadowl {
+  position: absolute;
+  left: -130px;
+  z-index: -1;
+  top: -50px;
+}
+
+/* sponsor */
+
+/* main-footer */
+
+section .main-footer {
+  margin-top: 200px;
+  /* height: 534px; */
+  background: #e8f4fa;
+}
+
+section .main-footer .container {
+  width: 35%;
+  margin: 0 auto;
+}
+
+section .main-footer .container input {
+  background: #ffffff;
+  height: 37px;
+  width: 300px;
+  border-radius: 10px;
+  padding: 0 20px;
+  outline: none;
+  border: none;
+}
+
+section .main-footer .container h2 {
+  padding-top: 78px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: center;
+  height: 91px;
+  width: 356px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+section .main-footer .container button {
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+  background-color: #000;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 3px 15px;
+  margin-bottom: 148px;
+}
+
+section .main-footer .container .head {
+  display: flex;
+}
+section .main-footer .container .head img {
+  height: 34px;
+  width: 54px;
+  padding-top: 50px;
+}
+section .main-footer .star img {
+  width: 66px;
+  height: 66px;
+  margin-top: -36px;
+  margin-left: 150px;
+  transform: rotate(-4.8deg);
+}
+/* main-footer */
